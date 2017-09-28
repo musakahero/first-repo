@@ -1,2 +1,2 @@
 sample m8
-simple
+simple job
